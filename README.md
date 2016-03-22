@@ -1,0 +1,2 @@
+# thursdayschild
+online culture magazine
