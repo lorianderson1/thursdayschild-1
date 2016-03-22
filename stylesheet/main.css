@@ -1,2 +1,50 @@
-h1{
-color:red;}
+header {
+  text-align: center;
+  background: url(http://i.imgur.com/OA4ReJD.jpg);
+  color: white;
+  background-position: center left;
+  background-size: cover;
+  height: 300px
+ 
+  }    
+
+
+a {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  top: 100px;
+  
+  
+  
+  
+
+ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  font-family: 'Merriweather', serif;
+  margin-top: 172px
+  
+   
+  
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px 
+}
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+
