@@ -1,7 +1,7 @@
 <!--
 A{text-decoration:none}
 -->
-header {
+h1 {
   text-align: center;
   background: url(http://i.imgur.com/OA4ReJD.jpg);
   color: white;
@@ -22,14 +22,14 @@ h1 {
   position: relative;
   top: 100px;
   
-ul {
+ul a {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
   margin-top: 172px;
   }
 
-li {
+li a {
   display: inline;
   padding: 0px 10px 0px 10px; 
 }
