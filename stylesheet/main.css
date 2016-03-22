@@ -2,12 +2,12 @@
 A{text-decoration:none}
 -->
 h1 {
-  text-align: center;
-  background: url(http://i.imgur.com/OA4ReJD.jpg);
-  color: white;
-  background-position: center left;
-  background-size: cover;
-  height: 300px
+  text-align:center;
+  background:url(http://i.imgur.com/OA4ReJD.jpg);
+  color:white;
+  background-position:center-left;
+  background-size:cover;
+  height:300px
  
   }    
 
@@ -16,7 +16,7 @@ a {
   color: white;
 }
 
-h1 {
+h2 {
   font-size: 70px;
   font-family: 'Merriweather', serif;
   position: relative;
