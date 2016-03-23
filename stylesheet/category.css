@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  height: 300px
+}
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 70px;
+  color: white;
+  position: relative;
+  top: 100px
+}
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+.artandculture{
+background-image: url(http://i.imgur.com/OPrUyGI.jpg);}
+.fashion{
+background-image: url(http://i.imgur.com/wrnCzzF.jpg);}
+.food{
+background-image: url(http://i.imgur.com/GGXbBCv.jpg);}
+.travel{
+background: url(http://i.imgur.com/uN9vFLe.jpg);}
