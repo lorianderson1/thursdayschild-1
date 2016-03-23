@@ -22,16 +22,16 @@ h1 {
         vertical-align: baseline;
         background: transparent;
 }
-..travel{
+.travel{
   background:;
 }
-..food{
+.food{
   background:;
 }
-..artandculture{
+.artandculture{
   background:url("http://i.imgur.com/OPrUyGI.jpg");
 }
-..fashion{
+.fashion{
   background:;
 }
 
