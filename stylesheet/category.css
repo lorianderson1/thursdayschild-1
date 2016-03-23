@@ -3,7 +3,7 @@ header {
   color: white;
   background-position: center;
   background-size: cover;
-  height: 300px
+  height: 300px;
 }
 h1 {
   font-family: 'Merriweather', serif;
@@ -22,11 +22,11 @@ h1 {
         vertical-align: baseline;
         background: transparent;
 }
-.artandculture{
+..artandculture{
 background-image: url(http://i.imgur.com/OPrUyGI.jpg);}
-.fashion{
+..fashion{
 background-image: url(http://i.imgur.com/wrnCzzF.jpg);}
-.food{
+..food{
 background-image: url(http://i.imgur.com/GGXbBCv.jpg);}
-.travel{
+..travel{
 background: url(http://i.imgur.com/uN9vFLe.jpg);}
