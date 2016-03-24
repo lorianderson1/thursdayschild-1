@@ -23,15 +23,15 @@ h1 {
         background: transparent;
 }
 .travel{
-  background:url("http://i.imgur.com/uN9vFLe.jpg");
+  background-image:url("http://i.imgur.com/uN9vFLe.jpg");
 }
 .food{
-  background:url("http://i.imgur.com/GGXbBCv.jpg");
+  background-image:url("http://i.imgur.com/GGXbBCv.jpg");
 }
 .artandculture{
-  background:url("http://i.imgur.com/OPrUyGI.jpg");
+  background-image:url("http://i.imgur.com/OPrUyGI.jpg");
 }
 .fashion{
-  background: url("http://i.imgur.com/wrnCzzF.jpg");
+  background-image: url("http://i.imgur.com/wrnCzzF.jpg");
 }
 
