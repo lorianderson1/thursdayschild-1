@@ -5,6 +5,19 @@ header {
   background-size: cover;
   height: 300px;
 }
+.travel{
+  background-image:url("http://i.imgur.com/uN9vFLe.jpg");
+}
+.food{
+  background-image:url("http://i.imgur.com/GGXbBCv.jpg");
+}
+.artandculture{
+  background-image:url("http://i.imgur.com/OPrUyGI.jpg");
+}
+.fashion{
+  background-image: url("http://i.imgur.com/wrnCzzF.jpg");
+}
+
 h1 {
   font-family: 'Merriweather', serif;
   font-size: 70px;
@@ -32,14 +45,11 @@ p{
   font-size: 20px;
   padding: 10px;
   text-align: justify;
-  
- 
 }
 div {
   position: relative;
   top: 300px;
   right: 490px
-  
 }
 
 * {
@@ -50,17 +60,5 @@ div {
         font-size: 100%;
         vertical-align: baseline;
         background: transparent;
-}
-.travel{
-  background-image:url("http://i.imgur.com/uN9vFLe.jpg");
-}
-.food{
-  background-image:url("http://i.imgur.com/GGXbBCv.jpg");
-}
-.artandculture{
-  background-image:url("http://i.imgur.com/OPrUyGI.jpg");
-}
-.fashion{
-  background-image: url("http://i.imgur.com/wrnCzzF.jpg");
 }
 
