@@ -25,6 +25,7 @@ text-align: center;
 h1 {
   font-family: 'Merriweather', serif;
   font-size: 70px;
+   position: relative;
   color: white;
   top: 100px
 }
@@ -62,11 +63,7 @@ p{
   padding: 10px;
   text-align: justify;
 }
-div {
-  position: relative;
-  top: 300px;
-  right: 490px
-}
+
 
 * {
         margin: 0;
