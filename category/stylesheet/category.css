@@ -1,6 +1,7 @@
 header {
-text-align: center;
+  text-align: center;
   color: white;
+  background: center;
   background-size: cover;
   height: 300px;
 }
