@@ -24,3 +24,42 @@ header {
   background:black;
 }
 
+.header a {
+  color: white;
+}
+
+.header h1 {
+  font-size: 70px;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  top: 100px;
+  
+  
+  
+  
+}
+
+.header ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  font-family: 'Merriweather', serif;
+  margin-top: 172px
+  
+   
+  
+}
+
+.header li {
+  display: inline;
+  padding: 0px 10px 0px 10px 
+}
+
+body {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
