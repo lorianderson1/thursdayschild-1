@@ -1,6 +1,5 @@
 header {
   text-align: center;
-  background: url(http://i.imgur.com/GGXbBCv.jpg);
   color: white;
   background-position: center;
   background-size: cover;
@@ -33,12 +32,19 @@ h1 {
   top: 100px
 }
 
-p1 {
+p{
   position: relative;
   top: 10px;
   color: black;
   left: 135px;
   
+}
+.box-post{
+  font-family: Merriweather, serif;
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+  text-align: justify;
 }
 img {
   position: relative;
@@ -47,19 +53,10 @@ img {
   margin: 40px 0 0 0
 }
 
-p3 {
-  font-family: Merriweather, serif;
-  color: black;
-  font-size: 20px;
-  padding: 10px;
-  text-align: justify;
-}
-
 div {
   position: relative;
   top: 300px;
   right: 490px
-  
 }
 
 
