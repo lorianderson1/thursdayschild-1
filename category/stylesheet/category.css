@@ -57,12 +57,13 @@ p{
   padding: 10px;
   text-align: justify;
 }
-img {
+.thumbnail img. {
   position: relative;
   top: 300px;
   right: 700px;
   margin: 40px 0 0 0
 }
+
 
 div {
   position: relative;
